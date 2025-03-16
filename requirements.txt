@@ -1,0 +1,9 @@
+pillow
+piexif
+tk
+tensorflow
+numpy
+opencv-python
+matplotlib
+scikit-learn
+joblib
